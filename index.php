@@ -9,6 +9,12 @@
 
 namespace {
     exit("This file should not be included, only analyzed by your IDE");
+    
+    class Azer extends \Illuminate\Support\Facades\App{
+        
+        
+        
+    }
 
     class App extends \Illuminate\Support\Facades\App{
         
